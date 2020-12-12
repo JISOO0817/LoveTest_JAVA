@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LoveTest_JAVA</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="main_title">사랑의 유형을 찾아보세요!</string>
+    <string name="question">꽃병에 꽃이 있었습니다.\n 시간이 지나면서 꽃이 시들었습니다.\n 당신은 그것으로 무엇을 할건가요?</string>
+</resources>
